@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/book-pile/static/css/main.601209b7.css",
+    "main.js": "/book-pile/static/js/main.5e15506d.js",
+    "static/media/logo.svg": "/book-pile/static/media/logo.d52df5d86ef309afb573fc98c93a5f56.svg",
+    "index.html": "/book-pile/index.html",
+    "main.601209b7.css.map": "/book-pile/static/css/main.601209b7.css.map",
+    "main.5e15506d.js.map": "/book-pile/static/js/main.5e15506d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601209b7.css",
+    "static/js/main.5e15506d.js"
+  ]
+}
